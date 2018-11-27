@@ -17,7 +17,7 @@ public static void main(String[] args) {
 		 while(!firstInt.isEmpty()) {
 			 
 			 try {
-				// cast du int en String
+				 // cast du String en int
 				 somme = somme + Integer.parseInt(firstInt);
 				 System.out.println("Cumul : " + somme);
 			
